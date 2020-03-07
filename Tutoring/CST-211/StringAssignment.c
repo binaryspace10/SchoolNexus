@@ -55,5 +55,5 @@ void main() {
 		thanosSnap[i] = 0;
 		printf("%s\n", thanosSnap);
 	}
-	printf("\nThe string is no more. It was set to NULL values (zeros) character by character.\n ");
+	printf("\nThe string is no more. It was set to NULL values (zeros) character by character.\n");
 }
